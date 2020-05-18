@@ -1,0 +1,4 @@
+---
+three_tier_frontend_packages:
+- haproxy
+- python2-httpie
